@@ -1,0 +1,33 @@
+
+c
+java:S1192@"FDefine a constant instead of duplicating this literal "serif" 7 times.(œ°Ä8’ıŒë0
+’
+java:S1192K"pDefine a constant instead of duplicating this literal "Press Enter/Left/Right Arrow to start the game!" 3 times.(›‰ö´ùÿÿÿÿ8’ıŒë0
+e
+java:S1192A"HDefine a constant instead of duplicating this literal "Score: " 3 times.(°£êÂ8’ıŒë0
+M
+java:S1066½"/Merge this if statement with the enclosing one.(©äê8“ıŒë0
+‡
+java:S1488œ"dImmediately return this expression instead of assigning it to the temporary variable "randomNumber".(µ ÖÂşÿÿÿÿ8”ıŒë0
+‡
+java:S1488¤"dImmediately return this expression instead of assigning it to the temporary variable "randomNumber".(µ ÖÂşÿÿÿÿ8”ıŒë0
+s
+java:S1104"QMake score a static final constant or non-public and provide accessors if needed.(‹†ªÓıÿÿÿÿ8”ıŒë0
+¤
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§‡®êúÿÿÿÿ8ÚşŒë0
+¤
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àÔ·“ûÿÿÿÿ8ÛşŒë0
+F
+java:S1948#")Make "mapPlay" transient or serializable.(Õõé›8ÛşŒë0
+D
+java:S1125G"'Remove the unnecessary boolean literal.(ˆÙ¦Š8áşŒë0
+u
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(åäÓåûÿÿÿÿ8èşŒë0
+^
+java:S1119á";Refactor the code to remove this label and the need for it.(õ§šƒûÿÿÿÿ8éşŒë0
+;
+java:S2119™"Save and re-use this "Random".(¼İÅf8íşŒë0
+;
+java:S2119¡"Save and re-use this "Random".(¼İÅf8îşŒë0
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Î™Ó8ÃˆÁ‘ë0

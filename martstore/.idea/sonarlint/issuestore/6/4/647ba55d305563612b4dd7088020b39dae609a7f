@@ -1,0 +1,17 @@
+
+e
+java:S1192'"JDefine a constant instead of duplicating this literal " Store : " 4 times.(ú¹£ÿÿÿÿÿ
+d
+java:S1192"NDefine a constant instead of duplicating this literal "*Buyer Log : " 4 times.(÷¹Ã
+m
+java:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+y
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÈØ‘Ûûÿÿÿÿ
+`
+java:S2235"ERefactor this piece of code to not catch IllegalMonitorStateException(ÈØ‘Ûûÿÿÿÿ
+Y
+java:S2276-"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(Óø¥
+K
+java:S2446/"0"notify" may not wake up the appropriate thread.(¶áøøÿÿÿÿ
+F
+java:S2446@"0"notify" may not wake up the appropriate thread.(³€ü

@@ -1,0 +1,19 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(Éþî˜üÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Y
+java:S2276%"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶
+Y
+java:S22768"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶
+t
+java:S2142D"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Y
+java:S2276C"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶
+h	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ä­Ÿþÿÿÿÿ
